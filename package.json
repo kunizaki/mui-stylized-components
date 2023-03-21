@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "SEU_LINK_DO_REPOSITÓRIO"
+    "url": "https://github.com/kunizaki/mui-stylized-components"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
