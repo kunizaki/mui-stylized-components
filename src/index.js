@@ -1,9 +1,6 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import { Header } from './header';
+import { Loading } from './loading';
+import { Sidebar } from './sidebar';
 
-ReactDOM.render(
-  <div>
-    <h1>MUI Estilized Components</h1>
-  </div>,
-  document.getElementById('root')
-);
+// eslint-disable-next-line import/no-anonymous-default-export
+export default { Header, Loading, Sidebar}
